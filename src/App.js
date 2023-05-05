@@ -8,8 +8,8 @@ import WowView from './WowView';
 /*
  * Assignment:
  * 1. Make it so that when you click the text of the wow it displays that wow in the 
- * Wow box that is currently populated when you click "Get Wowed"
- * 2. Add prev/next buttons to move through the range of ordered wows.
+ * Wow box that is currently populated when you click "Get Wowed" - In Progress
+ * 2. Add prev/next buttons to move through the range of ordered wows. - Done
  * 3. Stylize the table holding all the data
  * 4. Stylize the entire page with better colors
  */
